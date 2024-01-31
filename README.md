@@ -1,9 +1,8 @@
 
-Capstone Project
+Capstone Project - Financial Calculator
 
-Financial Calculator
-
-Leveraging my Python skills, I constructed the "Finance Calculator" project to meet compulsory tasks within the Hyperion Development Software Engineering Bootcamp.
+Overview:
+Leveraging my Python skills, I constructed the "Finance Calculator" project to meet compulsory tasks within the Hyperion Development Software Engineering Bootcamp,where I'm currently enrolled.
 
 Description:
 Investment Calculator: Calculates the amount of interest earned on an investment, considering both simple and compound interest options.
