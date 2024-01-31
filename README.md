@@ -1,7 +1,6 @@
+Capstone Project - Financial Calculator
 
-Capstone Project
 
-Financial Calculator
 
 Overview:
 
