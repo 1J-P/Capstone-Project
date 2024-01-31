@@ -2,6 +2,7 @@
 Capstone Project - Financial Calculator
 
 Overview:
+
 Leveraging my Python skills, I constructed the "Finance Calculator" project to meet compulsory tasks within the Hyperion Development Software Engineering Bootcamp,where I'm currently enrolled.
 
 Description:
