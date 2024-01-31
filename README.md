@@ -1,5 +1,7 @@
 
-Capstone Project - Financial Calculator
+Capstone Project
+
+Financial Calculator
 
 Overview:
 
@@ -13,6 +15,7 @@ Home Loan Repayment Calculator:
  Calculates the monthly repayment amount for a home loan.
 
 How to use:
+
 Clone this repository to your local machine.
 Navigate to the project directory in your terminal.
 Run the application using the command: python finance_calculators.py
@@ -29,6 +32,7 @@ Prompts for the house value, interest rate, and loan repayment period (in months
 Calculates and displays the monthly repayment amount.
 
 Technologies Used:
+
 Python 3.x
 math library. 
 
