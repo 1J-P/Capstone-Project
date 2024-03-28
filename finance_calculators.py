@@ -6,7 +6,6 @@ User input should not be affected by capitalises and display error for incorrect
 User input options for investment; simple and compond interest include formula display total to user. 
 User input options for compound interest and  display to user total monthly repayments.
 """
-
 # Print header for menu styling.
 print("=" * 100) 
 
